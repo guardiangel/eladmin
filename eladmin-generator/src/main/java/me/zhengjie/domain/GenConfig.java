@@ -75,4 +75,6 @@ public class GenConfig implements Serializable {
 
     @ApiModelProperty(value = "是否覆盖")
     private Boolean cover = false;
+
+
 }
